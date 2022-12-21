@@ -1,0 +1,28 @@
+{
+  "name": "recatpchat",
+  "version": "1.0.0",
+  "description": "google_recaptcha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduarMartinezGlez/google_recaptcha.git"
+  },
+  "keywords": [
+    "google",
+    "recaptcha"
+  ],
+  "author": "EduardMartGlez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EduarMartinezGlez/google_recaptcha/issues"
+  },
+  "homepage": "https://github.com/EduarMartinezGlez/google_recaptcha#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "request": "^2.88.2"
+  }
+}
